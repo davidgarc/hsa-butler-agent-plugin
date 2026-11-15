@@ -1,0 +1,10 @@
+{
+  "name": "hsa-butler",
+  "displayName": "HSA Butler",
+  "version": "1.0.0",
+  "description": "File health receipts into HSA Butler as drafts you confirm, see what is waiting for review, what you can still reimburse yourself from your HSA, and what your Form 8889 summary and tax packet say for a year.",
+  "author": { "name": "David Garcia", "url": "https://hsabutler.com" },
+  "homepage": "https://app.hsabutler.com/docs/connect",
+  "license": "MIT",
+  "keywords": ["hsa", "health savings account", "receipts", "reimbursement", "form 8889", "taxes"]
+}
